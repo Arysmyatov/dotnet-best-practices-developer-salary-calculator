@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FullDeveloperSalary", "FullDeveloperSalary\FullDeveloperSalary.csproj", "{EFB7BDFE-6A03-4390-9E37-0DA67A06F103}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FullDeveloperSalary.UnitTests", "FullDeveloperSalary.UnitTests\FullDeveloperSalary.UnitTests.csproj", "{B0509F6F-02DC-4D68-A919-0466B2091646}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EFB7BDFE-6A03-4390-9E37-0DA67A06F103}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EFB7BDFE-6A03-4390-9E37-0DA67A06F103}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EFB7BDFE-6A03-4390-9E37-0DA67A06F103}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EFB7BDFE-6A03-4390-9E37-0DA67A06F103}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B0509F6F-02DC-4D68-A919-0466B2091646}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0509F6F-02DC-4D68-A919-0466B2091646}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0509F6F-02DC-4D68-A919-0466B2091646}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0509F6F-02DC-4D68-A919-0466B2091646}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
